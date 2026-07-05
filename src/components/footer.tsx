@@ -113,7 +113,7 @@ export function Footer() {
             <span className="text-lg font-semibold italic tracking-tight">FashionHero</span>
             {/* Country selector */}
             <span className="text-xs text-white/40 border border-white/20 px-3 py-1 rounded">
-              US ($)
+              IND (₹)
             </span>
           </div>
           <p className="text-xs text-white/30">
